@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ana+Rezende;I'm+18+years+old;I'm+from+Brazil;I'm+Graduating+In+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anarezend3&bg_color=0d1117&color=b13583&line=&point=da70d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anarezend3&bg_color=0d1117&color=DDA0DD&line=&point=da70d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anarezend3&show_icons=true&count_private=true&hide_border=true&title_color=b13583&icon_color=b13583&text_color=b13583&bg_color=0d1117" alt="Ana Rezende github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarezend3&layout=compact&hide_border=true&title_color=b13583&text_color=b13583&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anarezend3&show_icons=true&count_private=true&hide_border=true&title_color=DDA0DD&icon_color=DDA0DD&text_color=DDA0DD&bg_color=0d1117" alt="Ana Rezende github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarezend3&layout=compact&hide_border=true&title_color=DDA0DD&text_color=DDA0DD&bg_color=0d1117" />
 </div>
 
 <div align="center">
